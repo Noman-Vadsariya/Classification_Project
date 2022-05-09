@@ -26,7 +26,7 @@ import unicodedata
 import six
 import tensorflow as tf
 
-import sentencepiece as spm
+# import sentencepiece as spm
 
 SPIECE_UNDERLINE = "▁"
 
